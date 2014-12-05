@@ -1,16 +1,13 @@
 {
-  "name": "gif.js",
+  "name": "gif.jsify",
   "version": "0.1.6",
   "description": "JavaScript GIF encoding library",
   "author": "Johan Nordberg <code@johan-nordberg.com>",
   "main": "index.js",
-  "repository": "https://github.com/jnordberg/gif.js.git",
+  "repository": "https://github.com/davidguttman/gif.js",
   "devDependencies": {
     "browserify": "^6.3.2",
     "commonjs-everywhere": "~0.9.4"
-  },
-  "scripts": {
-    "prepublish": "./bin/build"
   },
   "browser": "./src/gif.coffee",
   "keywords": [
