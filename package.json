@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": "https://github.com/davidguttman/gif.js",
   "devDependencies": {
-    "browserify": "^6.3.2",
+    "browserify": "^11.0.1",
     "commonjs-everywhere": "~0.9.4"
   },
   "browser": "./src/gif.coffee",
@@ -18,7 +18,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "coffeeify": "^0.7.0",
+    "coffeeify": "^1.1.0",
     "webworkify": "^1.0.0"
   },
   "browserify": {
